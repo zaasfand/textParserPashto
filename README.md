@@ -1,0 +1,2 @@
+# textParserPashto
+A Javascript Library
