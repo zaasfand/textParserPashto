@@ -1,0 +1,23 @@
+{
+  "name": "textparserpashto",
+  "version": "1.0.1",
+  "description": "Pashto Text Parser. Creates object of words from a provided text.",
+  "main": "dist/textParserPashto.bundle.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Pashto",
+    "Text",
+    "Parser"
+  ],
+  "files": [
+    "dist"
+  ],
+  "author": "Asfand Yar",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.79.1",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
